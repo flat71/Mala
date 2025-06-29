@@ -1,6 +1,4 @@
 body {
-      background-color:black;
-      
-      color: white;
-
- }
+       background-color: #000000; /* Preto */
+       color: #ffffff; /* Opcional: muda o texto para branco para melhor contraste */
+   }
