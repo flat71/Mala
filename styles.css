@@ -1,21 +1,24 @@
-body{
+body {
     background-color: black;
-        
+
     color: white;
-    font-family:"Chakra Petch" sans-serif;
+    font-family: "Chakra Petch" sans-serif;
     margin: 0px;
-    }
-    h1{
-        font-size: 40px;
-    }
-    p{
-        font-size: 20px;
-        font-family: cursive;
-     {
-    secttion{
-background: rgb(184, 156, 213);
-padding-bottom: 80px;
-    	padding-top: 80px;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+
+        {
+        secttion {
+            background: rgb(184, 156, 213);
+            padding-bottom: 80px;
+            padding-top: 80px;
+        }
 
     }
